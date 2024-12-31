@@ -7,6 +7,6 @@
 
 ## Release Notes
 
-#### 1.0.0 - Property Utils implementation
+#### 1.0.0.0 - Property Utils implementation
 
 #### 
