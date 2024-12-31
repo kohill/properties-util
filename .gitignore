@@ -1,0 +1,12 @@
+.settings/*
+*.project
+/logs
+*.iml
+*.html
+target/*
+.idea/*
+.out/*
+*.classpath
+*.log
+/.metadata/*
+.test-output/*
