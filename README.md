@@ -1,4 +1,4 @@
-# Property Utils & Properties for HealthEdge Test Automation
+# Property Utils & Properties for Test Automation
 
 This project is the centralization of gathering run-time properties in a testing project.  Properties can
 be attained with static calls in the test code or via system or environment properties.  This project will also
