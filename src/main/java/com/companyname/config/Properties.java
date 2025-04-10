@@ -1,4 +1,4 @@
-package com.healthedge.config;
+package com.companyname.config;
 
 public class Properties {
 

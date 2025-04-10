@@ -1,4 +1,4 @@
-package com.healthedge.config.props;
+package com.companyname.config.props;
 
 import java.util.LinkedList;
 import java.util.Properties;

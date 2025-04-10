@@ -1,4 +1,4 @@
-package com.healthedge.config.props;
+package com.companyname.config.props;
 
 import java.io.IOException;
 import java.io.InputStream;
